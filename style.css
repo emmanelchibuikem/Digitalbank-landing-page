@@ -1,0 +1,9 @@
+nav{
+    background-color:  white;
+}
+.rounded1{
+    border-radius: 20px;
+    padding: 10px;
+    background: linear-gradient(hsl(136, 64%, 51%),hsl(192, 69%, 51%));
+    border: none;
+}
